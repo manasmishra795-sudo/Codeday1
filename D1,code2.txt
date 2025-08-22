@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    a=20;
+    b=10;
+    int sum =a+b;
+    int diff=a-b;
+    int pro=a*b;
+    int quo=a/b;
+    printf("sum is %d \n",sum);
+    printf("diff is %d \n", diff);
+    printf("pro is %d \n", pro);
+    printf("quo is %d \n",quo);
+    return 0;
+    
+
+}
